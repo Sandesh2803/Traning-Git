@@ -1,2 +1,3 @@
 # Traning-Git
-This is Git Demo
+This is Git Demo.
+Author; Sandesh
